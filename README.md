@@ -1,4 +1,2 @@
 # hello-world
-learning Github
-
-Good
+Don't prove yourself, improve yourself.
